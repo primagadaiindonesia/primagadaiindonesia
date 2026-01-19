@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 520" role="img" aria-label="Ilustrasi layanan gadai elektronik dan kendaraan">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7A1F28"/>
+      <stop offset="1" stop-color="#A33A2F"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="520" fill="#FFFFFF"/>
+  <circle cx="160" cy="130" r="110" fill="#7A1F28" opacity="0.10"/>
+  <circle cx="690" cy="100" r="130" fill="#A33A2F" opacity="0.10"/>
+  <circle cx="660" cy="420" r="120" fill="#7A1F28" opacity="0.08"/>
+
+  <!-- Building -->
+  <rect x="210" y="140" width="400" height="300" rx="26" fill="#F7F7F9" stroke="#EAECF0" stroke-width="6"/>
+  <rect x="235" y="165" width="350" height="70" rx="20" fill="url(#g)"/>
+  <text x="410" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">PRIMA GADAI</text>
+
+  <!-- Door -->
+  <rect x="380" y="280" width="70" height="160" rx="16" fill="#FFFFFF" stroke="#D0D5DD" stroke-width="6"/>
+  <circle cx="435" cy="360" r="6" fill="#7A1F28"/>
+
+  <!-- Windows -->
+  <rect x="260" y="280" width="90" height="70" rx="14" fill="#FFFFFF" stroke="#D0D5DD" stroke-width="6"/>
+  <rect x="470" y="280" width="90" height="70" rx="14" fill="#FFFFFF" stroke="#D0D5DD" stroke-width="6"/>
+
+  <!-- Phone icon -->
+  <rect x="80" y="250" width="120" height="210" rx="24" fill="#FFFFFF" stroke="#7A1F28" stroke-width="10"/>
+  <rect x="105" y="280" width="70" height="120" rx="12" fill="#F7F7F9" stroke="#EAECF0" stroke-width="6"/>
+  <circle cx="140" cy="430" r="10" fill="#7A1F28" opacity="0.85"/>
+
+  <!-- Car icon -->
+  <path d="M620 390c0-10 8-18 18-18h95c10 0 18 8 18 18v30c0 10-8 18-18 18h-8a34 34 0 0 1-66 0h-45a34 34 0 0 1-66 0h-8c-10 0-18-8-18-18v-30z" fill="#FFFFFF" stroke="#A33A2F" stroke-width="10"/>
+  <circle cx="660" cy="450" r="20" fill="#FFFFFF" stroke="#A33A2F" stroke-width="10"/>
+  <circle cx="760" cy="450" r="20" fill="#FFFFFF" stroke="#A33A2F" stroke-width="10"/>
+
+  <!-- Accent line -->
+  <path d="M235 245h350" stroke="#EAECF0" stroke-width="6" stroke-linecap="round"/>
+</svg>
